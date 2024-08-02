@@ -1,0 +1,8 @@
+E:\Third Year\C#\C# Gui\FuncOver\FuncOver\bin\FuncOver.dll
+E:\Third Year\C#\C# Gui\FuncOver\FuncOver\bin\FuncOver.pdb
+E:\Third Year\C#\C# Gui\FuncOver\FuncOver\obj\Debug\FuncOver.dll
+E:\Third Year\C#\C# Gui\FuncOver\FuncOver\obj\Debug\FuncOver.pdb
+D:\Zoya\C# - GUI\FuncOver\FuncOver\bin\FuncOver.dll
+D:\Zoya\C# - GUI\FuncOver\FuncOver\bin\FuncOver.pdb
+D:\Zoya\C# - GUI\FuncOver\FuncOver\obj\Debug\FuncOver.dll
+D:\Zoya\C# - GUI\FuncOver\FuncOver\obj\Debug\FuncOver.pdb

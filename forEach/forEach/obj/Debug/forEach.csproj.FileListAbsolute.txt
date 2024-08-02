@@ -1,0 +1,4 @@
+D:\Zoya\GUI Practical\forEach\forEach\bin\forEach.dll
+D:\Zoya\GUI Practical\forEach\forEach\bin\forEach.pdb
+D:\Zoya\GUI Practical\forEach\forEach\obj\Debug\forEach.dll
+D:\Zoya\GUI Practical\forEach\forEach\obj\Debug\forEach.pdb

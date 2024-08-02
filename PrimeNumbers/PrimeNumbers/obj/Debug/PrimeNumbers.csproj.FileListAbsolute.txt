@@ -1,0 +1,4 @@
+D:\Zoya\GUI Practical\PrimeNumbers\PrimeNumbers\bin\PrimeNumbers.dll
+D:\Zoya\GUI Practical\PrimeNumbers\PrimeNumbers\bin\PrimeNumbers.pdb
+D:\Zoya\GUI Practical\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.dll
+D:\Zoya\GUI Practical\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

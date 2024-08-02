@@ -1,0 +1,4 @@
+D:\Zoya\GUI Practical\FibonacciSeries\FibonacciSeries\bin\FibonacciSeries.dll
+D:\Zoya\GUI Practical\FibonacciSeries\FibonacciSeries\bin\FibonacciSeries.pdb
+D:\Zoya\GUI Practical\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.dll
+D:\Zoya\GUI Practical\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.pdb

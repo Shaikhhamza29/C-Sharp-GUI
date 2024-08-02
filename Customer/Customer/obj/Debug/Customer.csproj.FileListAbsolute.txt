@@ -1,0 +1,4 @@
+D:\Zoya\GUI Practical\Customer\Customer\bin\Customer.dll
+D:\Zoya\GUI Practical\Customer\Customer\bin\Customer.pdb
+D:\Zoya\GUI Practical\Customer\Customer\obj\Debug\Customer.dll
+D:\Zoya\GUI Practical\Customer\Customer\obj\Debug\Customer.pdb

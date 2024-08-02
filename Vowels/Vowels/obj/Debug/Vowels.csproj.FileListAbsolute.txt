@@ -1,0 +1,4 @@
+D:\Zoya\GUI Practical\Vowels\Vowels\bin\Vowels.dll
+D:\Zoya\GUI Practical\Vowels\Vowels\bin\Vowels.pdb
+D:\Zoya\GUI Practical\Vowels\Vowels\obj\Debug\Vowels.dll
+D:\Zoya\GUI Practical\Vowels\Vowels\obj\Debug\Vowels.pdb

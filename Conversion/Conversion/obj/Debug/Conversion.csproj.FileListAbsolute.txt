@@ -1,0 +1,4 @@
+D:\Zoya\GUI Practical\Conversion\Conversion\bin\Conversion.dll
+D:\Zoya\GUI Practical\Conversion\Conversion\bin\Conversion.pdb
+D:\Zoya\GUI Practical\Conversion\Conversion\obj\Debug\Conversion.dll
+D:\Zoya\GUI Practical\Conversion\Conversion\obj\Debug\Conversion.pdb

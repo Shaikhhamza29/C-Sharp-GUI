@@ -1,0 +1,8 @@
+E:\Third Year\C#\C# Gui\Factorial\Factorial\bin\Factorial.dll
+E:\Third Year\C#\C# Gui\Factorial\Factorial\bin\Factorial.pdb
+E:\Third Year\C#\C# Gui\Factorial\Factorial\obj\Debug\Factorial.dll
+E:\Third Year\C#\C# Gui\Factorial\Factorial\obj\Debug\Factorial.pdb
+D:\Zoya\GUI Practical\Factorial\Factorial\bin\Factorial.dll
+D:\Zoya\GUI Practical\Factorial\Factorial\bin\Factorial.pdb
+D:\Zoya\GUI Practical\Factorial\Factorial\obj\Debug\Factorial.dll
+D:\Zoya\GUI Practical\Factorial\Factorial\obj\Debug\Factorial.pdb
