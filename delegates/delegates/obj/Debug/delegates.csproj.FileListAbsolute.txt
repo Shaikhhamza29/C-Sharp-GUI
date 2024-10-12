@@ -1,0 +1,4 @@
+E:\Third Year\C#\C-Sharp-GUI\delegates\delegates\bin\delegates.dll
+E:\Third Year\C#\C-Sharp-GUI\delegates\delegates\bin\delegates.pdb
+E:\Third Year\C#\C-Sharp-GUI\delegates\delegates\obj\Debug\delegates.dll
+E:\Third Year\C#\C-Sharp-GUI\delegates\delegates\obj\Debug\delegates.pdb
